@@ -118,4 +118,4 @@ Final manuscript figure assembly/design scripts are not included. The notebooks 
 
 ## License
 
-This repository is released under the MIT License. See `LICENSE` for details.
+This repository is released under the MIT License. 
