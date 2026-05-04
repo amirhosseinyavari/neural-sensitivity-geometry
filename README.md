@@ -113,11 +113,7 @@ Final manuscript figure assembly/design scripts are not included. The notebooks 
 ## Citation
 
 ```bibtex
-@article{yavari2026neural,
-  title={Beyond Activation Alignment: The Geometry of Neural Sensitivity},
-  author={Yavari, Amirhossein and Zamani Esfahlani, Farnaz},
-  year={2026}
-}
+
 ```
 
 ## License
